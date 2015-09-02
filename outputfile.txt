@@ -1,0 +1,10 @@
+{"arrivalId": 37, "provider": "mqwjs", "timestamp": 1421190000.0, "value": 33.26309382323541, "departureId": 8}
+{"arrivalId": 47, "provider": "frygq", "timestamp": 1421362800.0, "value": 48.014714178854206, "departureId": 45}
+{"arrivalId": 41, "provider": "xjvug", "timestamp": 1420412400.0, "value": 44.17693304870019, "departureId": 44}
+{"arrivalId": 38, "provider": "xjvug", "timestamp": 1421622000.0, "value": 37.77578117990213, "departureId": 32}
+{"arrivalId": 6, "provider": "lyexw", "timestamp": 1422054000.0, "value": 38.62585582698891, "departureId": 10}
+{"arrivalId": 22, "provider": "lyexw", "timestamp": 1422054000.0, "value": 39.60001714712939, "departureId": 8}
+{"arrivalId": 13, "provider": "lexzy", "timestamp": 1420585200.0, "value": 35.221150289016755, "departureId": 43}
+{"arrivalId": 33, "provider": "frygq", "timestamp": 1421276400.0, "value": 45.02882196071708, "departureId": 5}
+{"arrivalId": 7, "provider": "xjvug", "timestamp": 1420930800.0, "value": 37.49104330526829, "departureId": 35}
+{"arrivalId": 11, "provider": "lyexw", "timestamp": 1420326000.0, "value": 48.08829131878804, "departureId": 28}
